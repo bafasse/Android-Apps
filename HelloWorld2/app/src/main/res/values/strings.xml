@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello.World</string>
+    <string name="random_heading">This generates a number between 0 and %1d</string>
+</resources>
